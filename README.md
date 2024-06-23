@@ -41,7 +41,8 @@ In the `main.py` file, locate the line where the video file path is defined. Rep
 ## Demo
 
 To Watch a video demonstration of our system in action click [here](https://www.youtube.com/watch?v=N68TiqHG25s).
-<img src="./demo_image/demo_img.jpg" alt="demo" width="600"/>
+
+<img src="./demo_image/demo_img.jpg" alt="demo" width="400"/>
 
 
 
