@@ -5,9 +5,7 @@ A comprehensive AI assistant tool to aid visually impaired individuals in unders
 
 ## Table of Contents
 - [Dependencies](#dependencies)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Method](#method)
 - [Demo](#demo)
 - [Citation](#citation)
 
