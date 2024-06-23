@@ -26,11 +26,11 @@ To install the required Python packages, you can use pip. Below are the packages
 ## Usage
 **1. Clone the repository:**
 
-bash git clone https://github.com/Zahrabrhm/SightMap.ai.git
+```git clone https://github.com/Zahrabrhm/SightMap.ai.git
 
 **2. Navigate to the project directory:**
 
-bash cd SightMap.ai
+```cd SightMap.ai
 
 **3. Update Video File Path:**
 
@@ -38,7 +38,7 @@ In the `main.py` file, locate the line where the video file path is defined. Rep
 
 **4. Run the main script with the following command:**
 
-bash python main.py
+```python main.py
 
 ## Demo
 
@@ -49,9 +49,16 @@ Watch a demonstration of the system in action:
 ## Citation 
 
 If you use this code in your research, please cite this repository as follows:
-
-bibtex @misc{Zahrabrhm2024SightMap, author = {Zahra Ebrahimi Jouibari, Sevy Veeken, Mira Patel, Destiny Bailey}, title = {SightMap}, year = {2024}, publisher = {GitHub}, journal = {GitHub Repository}, howpublished = {\url{https://github.com/Zahrabrhm/SightMap.ai}} }
-
+```bibtex
+@misc{Zahrabrhm2024SightMap,
+  author = {Zahra Ebrahimi Jouibari, Sevy Veeken, Mira Patel, Destiny Bailey},
+  title = {SightMap},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{https://github.com/Zahrabrhm/SightMap.ai}}
+}
+```
 
 
 
