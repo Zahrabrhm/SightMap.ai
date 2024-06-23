@@ -40,9 +40,10 @@ In the `main.py` file, locate the line where the video file path is defined. Rep
 
 ## Demo
 
-Watch a demonstration of the system in action:
+To Watch a video demonstration of our system in action click [here](https://www.youtube.com/watch?v=N68TiqHG25s).
+<img src="./demo_image/demo_img.jpg" alt="demo" width="600"/>
 
-[![Demo Video](https://img.youtube.com/vi/N68TiqHG25s/0.jpg)](https://www.youtube.com/watch?v=N68TiqHG25s)
+
 
 ## Citation 
 
