@@ -2,6 +2,7 @@
 <img src="./logo/logo.png" alt="Logo" width="200"/>
 
 A comprehensive AI assistant tool to aid visually impaired individuals in understanding and navigating their surroundings.
+For more information about this project visit our [website](https://sites.google.com/ualberta.ca/sightmap-ai?usp=sharing).
 
 ## Table of Contents
 - [Dependencies](#dependencies)
